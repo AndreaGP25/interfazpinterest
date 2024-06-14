@@ -13,7 +13,7 @@ Este proyecto es un clon de la interfaz de Pinterest, creado puramente con HTML5
 + **Google Icons**: Para iconos personalizados.
 
 ### Vista Previa del Proyecto
-![Demo](/imagenes/vistaprevia)
+![Demo](/imagenes/vistaprevia.png)
 
 ### Contacto
 Andrea Góngora: [9993836911]()
